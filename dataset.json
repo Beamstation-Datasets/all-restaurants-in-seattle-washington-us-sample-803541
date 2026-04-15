@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Seattle, Washington with a population of over 737k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Seattle, Washington, US",
+  "export_job_id": "406de335-a8bc-435f-981a-f780aea75c32",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 803541,
+  "location_name": "Seattle",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-seattle-washington-us-sample-803541",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/803541/beamstation_803541_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_pct": 12.09,
+  "sample_records": 248,
+  "sample_sha256": "7eff233bfddf36e99c77f2f31d263bdc09d8ed528cdad8dd658200fe9a4a39f8",
+  "sample_size_bytes": 922218,
+  "total_records": 2052,
+  "updated_at": "2026-03-31T15:28:17.773407+00:00"
+}
