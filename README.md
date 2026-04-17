@@ -9,9 +9,9 @@
 | Dataset ID | `803541` |
 | Location | Seattle |
 | Category | Restaurants |
-| Full dataset size | 2,052 records |
-| Free sample size | 248 records (12.09%) |
-| Last export | 2026-03-31T15:28:17.773407+00:00 |
+| Full dataset size | 2,481 records |
+| Free sample size | 248 records (10.0%) |
+| Last export | 2026-04-14T16:13:54.284238+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-seattle-washington-us-sample-803541/releases/download/sample-latest/beamstation_803541_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
