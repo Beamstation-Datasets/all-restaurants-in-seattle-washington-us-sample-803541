@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8e337f40-e7cc-40de-bcdf-77f151b5ff0a",
+  "export_job_id": "bf3fa8b3-bf90-4c5d-b652-20fbe4cebc34",
   "id_short": 803541,
-  "published_at": "2026-04-17T07:50:00Z",
+  "published_at": "2026-04-21T19:50:19Z",
   "repo_name": "all-restaurants-in-seattle-washington-us-sample-803541",
   "sample_asset_name": "beamstation_803541_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/803541/beamstation_803541_restaurants-us-wa_SAMPLE_DIST.csv",
-  "sample_records": 248,
-  "sample_sha256": "7eff233bfddf36e99c77f2f31d263bdc09d8ed528cdad8dd658200fe9a4a39f8",
-  "sample_size_bytes": 922218,
-  "total_records": 2481
+  "sample_records": 278,
+  "sample_sha256": "06e58394b211339ea2344a1e078c70e101b61b92fe8a8f3a37353ef24ed8bbd3",
+  "sample_size_bytes": 1020258,
+  "total_records": 2782
 }
