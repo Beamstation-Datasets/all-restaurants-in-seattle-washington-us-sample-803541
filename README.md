@@ -1,6 +1,6 @@
 # All Restaurants in Seattle, Washington, US
 
-> Free BeamStation sample export with 299 rows and masked direct-contact fields.
+> Free BeamStation sample export with 308 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `803541` |
 | Location | Seattle |
 | Category | Restaurants |
-| Full dataset size | 2,990 records |
-| Free sample size | 299 records (10.0%) |
-| Last export | 2026-04-28T18:55:30.312775+00:00 |
+| Full dataset size | 3,083 records |
+| Free sample size | 308 records (9.99%) |
+| Last export | 2026-05-07T04:25:01.956236+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-seattle-washington-us-sample-803541/releases/download/sample-latest/beamstation_803541_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
